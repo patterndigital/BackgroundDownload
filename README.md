@@ -1,5 +1,5 @@
 # About com.unity.backgrounddownload
-
+## Implements UnityWebRequest wrapper for Editor
 ## Note: Unsupported feature
 This package is not an officially supported feature, and is provided "as is".
 
